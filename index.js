@@ -3,7 +3,7 @@ let player = {
   chips: 200,
 };
 
-let cards = [];
+let cards = []; // empty array of card
 let sum = 0;
 let hasBlackJack = false;
 let isAlive = false;
