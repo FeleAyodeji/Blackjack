@@ -1,7 +1,7 @@
 let player = {
   name: "Per",
   chips: 200,
-};
+}; //object containing the player properties
 
 let cards = []; // empty array of card
 let sum = 0;
